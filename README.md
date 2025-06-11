@@ -1,4 +1,4 @@
-# Django Fundamentals Project - PyShop
+# Django Fundamentals Project
 
 This is a basic Django web application demonstrating core concepts including:
 - URL routing
